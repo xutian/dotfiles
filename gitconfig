@@ -1,6 +1,6 @@
 [user]
-  name = John Anderson
-  email = sontek@gmail.com
+  name = Xu Tian
+  email = xutian@redhat.com
 
 [push]
   default = current
@@ -9,7 +9,7 @@
   template = ~/.gitmessage
 
 [core]
-  editor = emacs
+  editor = vim
 
 [color]
   ui = true
